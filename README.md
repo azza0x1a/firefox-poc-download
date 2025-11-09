@@ -1,4 +1,4 @@
-﻿# Firefox Android Download Spoofing POC
+﻿# Chrome Android Download Spoofing POC
 
 ## Vulnerability: Download Origin Spoofing
 This demonstrates a download spoofing vulnerability in Firefox Android where malicious APK appears to come from trusted origin.
@@ -15,4 +15,5 @@ This demonstrates a download spoofing vulnerability in Firefox Android where mal
 
 ## Testing:
 Visit: yourdomain/yourngrok-free.app
+
 
